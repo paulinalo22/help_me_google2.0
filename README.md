@@ -6,7 +6,7 @@
 ![GitHub license](https://img.shields.io/badge/Made%20by-%40paulinalo22-blue)
 
 
-This super fun and functional app allows peeps to view my entire employee directory at once so that I have quick access to their information.
+This super fun and functional app allows peeps to look for books and save them!! 
 
 
 ## Table of contents
@@ -30,13 +30,11 @@ This super fun and functional app allows peeps to view my entire employee direct
 
 ## Usage
 
-        AS A Regional Manager
-        I WANT to see all my employee's information
-        SO THAT I can contact them faster
+        For productivity and fun!
 
 ## Link
 
-- [Deployed App in Heroku](https://rocky-shelf-34716.herokuapp.com/)
+- [Deployed App in Heroku](#)
 
 ## Licenses
 

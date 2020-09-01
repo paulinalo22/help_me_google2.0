@@ -1,6 +1,5 @@
 const db = require("../models");
 
-s
 module.exports = {
   findAll: function(req, res) {
     db.Book
