@@ -36,7 +36,7 @@ This super fun and functional app allows peeps to view my entire employee direct
 
 ## Link
 
-- [Deployed App in Heroku](https://rocky-shelf-34716.herokuapp.com/)
+- [Deployed App in Heroku](#)
 
 ## Licenses
 
