@@ -1,3 +1,5 @@
+require('dotenv').config()
+
 const express = require("express");
 
 const mongoose =require("mongoose");
@@ -22,7 +24,7 @@ app.get("*", function(req, res) {
 
 
 mongoose.connect(
-  process.env.MONGODB_URI || "mongodb://localhost/googlebooks",
+  process.env.MONGODB_URI || "mongodb://localhost:27017/googlebooks",
   { useUnifiedTopology: true, useNewUrlParser: true, useCreateIndex: true }
 );
 
