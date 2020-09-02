@@ -34,7 +34,7 @@ This super fun and functional app allows peeps to look for books and save them!!
 
 ## Link
 
-- [Deployed App in Heroku](https://google-help-me.herokuapp.com/saved)
+- [Deployed App in Heroku](https://google-help-me.herokuapp.com/)
 
 ## Licenses
 
